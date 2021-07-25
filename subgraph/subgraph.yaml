@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Protocol is a tracker of purchases on the rarible.com
-repository: https://github.com/rariblecom/subgraph
+description: Protocol is a tracker of purchases for rarible.com
+repository: https://github.com/waylad/rarible-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
